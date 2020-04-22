@@ -19,6 +19,6 @@
     "grunt-aws-lambda": "^0.13.0",
     "grunt-env": "^1.0.1",
     "lambda-local": "^1.7.2",
-    "load-grunt-tasks": "^3.4.0"
+    "load-grunt-tasks": "^5.1.0"
   }
 }
