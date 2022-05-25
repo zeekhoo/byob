@@ -14,7 +14,7 @@
     "aws-auth-policy": "^0.1.0"
   },
   "devDependencies": {
-    "grunt": "^1.1.0",
+    "grunt": "^1.5.3",
     "grunt-aws": "^0.7.1",
     "grunt-aws-lambda": "^0.13.0",
     "grunt-env": "^1.0.1",
